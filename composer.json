@@ -1,0 +1,11 @@
+{
+    "name": "herman/zephyr",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Herman Nelissen",
+            "email": "herman@tmi.news"
+        }
+    ],
+    "require": {}
+}
